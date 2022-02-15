@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://mikkail04.github.io/csb-koko1/static/css/main.9ee66982.chunk.css",
+    "main.js": "https://mikkail04.github.io/csb-koko1/static/js/main.842dc115.chunk.js",
+    "main.js.map": "https://mikkail04.github.io/csb-koko1/static/js/main.842dc115.chunk.js.map",
+    "runtime-main.js": "https://mikkail04.github.io/csb-koko1/static/js/runtime-main.fb128e85.js",
+    "runtime-main.js.map": "https://mikkail04.github.io/csb-koko1/static/js/runtime-main.fb128e85.js.map",
+    "static/js/2.6012264f.chunk.js": "https://mikkail04.github.io/csb-koko1/static/js/2.6012264f.chunk.js",
+    "static/js/2.6012264f.chunk.js.map": "https://mikkail04.github.io/csb-koko1/static/js/2.6012264f.chunk.js.map",
+    "index.html": "https://mikkail04.github.io/csb-koko1/index.html",
+    "precache-manifest.eace8c6280409a44b0fae55a12222c19.js": "https://mikkail04.github.io/csb-koko1/precache-manifest.eace8c6280409a44b0fae55a12222c19.js",
+    "service-worker.js": "https://mikkail04.github.io/csb-koko1/service-worker.js",
+    "static/css/main.9ee66982.chunk.css.map": "https://mikkail04.github.io/csb-koko1/static/css/main.9ee66982.chunk.css.map",
+    "static/js/2.6012264f.chunk.js.LICENSE.txt": "https://mikkail04.github.io/csb-koko1/static/js/2.6012264f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb128e85.js",
+    "static/js/2.6012264f.chunk.js",
+    "static/css/main.9ee66982.chunk.css",
+    "static/js/main.842dc115.chunk.js"
+  ]
+}
